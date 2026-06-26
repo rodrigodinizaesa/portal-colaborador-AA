@@ -1,0 +1,9 @@
+CREDENCIAIS DE ACESSO Á PLATAFORMA
+
+1 Utilizador
+Numero Colaborador: f001
+password: r
+
+2 Utilizador
+Numero Colaborador: f002
+password: r
